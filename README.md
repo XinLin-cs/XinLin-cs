@@ -3,7 +3,7 @@
 **ArComet/ArComet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 项目实践
-- ⚡ [RecommenderCore](https://github.com/ArComet/RecommenderCore) 推荐系统（算法）
+- ⚡ [RecommendSystem](https://github.com/ArComet/RecommendSystem) 推荐系统（算法）
 - ⚡ [shiyouge](https://github.com/ArComet/shiyouge) 适友阁（后端）
 - 🌱 [nCovNews](https://github.com/ArComet/nCovNews) 疫情小助手
 - 💬 [CashBook](https://github.com/ArComet/CashBook) 记账本

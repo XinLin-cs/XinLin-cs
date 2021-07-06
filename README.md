@@ -14,6 +14,6 @@
 
 课程设计
 - ✨ [ShopSystem](https://github.com/ArComet/ShopSystem) 商城购物系统
-- 👯 [SQLtest](https://github.com/ArComet/SQLtest) 考研论坛数据管理系统
+- 👯 [SQLtest](https://github.com/ArComet/SQLtest) 研招Doge
 - 🤔 [Doudizhu](https://github.com/ArComet/Doudizhu) linux斗地主
 - 📫 [GoBang](https://github.com/ArComet/GoBang) 五子棋

@@ -2,6 +2,10 @@
 
 **ArComet/ArComet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+科研课题
+- ⚡ [Cloud-edge-taskoffloading](https://github.com/ArComet/Cloud-edge-taskoffloading) 云边环境下的任务卸载算法
+
 项目实践
 - ⚡ [RecommendSystem](https://github.com/ArComet/RecommendSystem) 推荐系统（算法）
 - ⚡ [shiyouge](https://github.com/ArComet/shiyouge) 适友阁（后端）

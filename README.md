@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**ArComet/ArComet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 开源项目
 - ⚡ [Garnet](https://github.com/FudanMPL/Garnet) Garnet安全多方学习框架
 
